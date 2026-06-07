@@ -447,6 +447,5 @@ This project was published as a research paper in the **Journal of Emerging Tech
 
 ## Author
 
-**Madhan Raj M (San)**  
+**Madhan Raj M**  
 Final Year BCA — VELS Institute of Science, Technology & Advanced Studies (VISTAS), Chennai  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
